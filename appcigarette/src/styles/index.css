@@ -89,3 +89,47 @@ button:disabled {
   color: #666666;
   cursor: not-allowed;
 }
+
+
+.reward-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.reward-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+.reward-text {
+  flex: 1;
+  font-size: 16px;
+}
+
+.reward-button {
+  padding: 10px 15px;
+  background-color: #001aff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.reward-button:disabled {
+  background-color: #a9a9a9;
+  cursor: not-allowed;
+}
+
+.reward-button:hover:not(:disabled) {
+  background-color: #00c8ff;
+}
+
+.reward-list-scrollable {
+  max-height: 400px; /* Ajustez cette valeur selon la hauteur désirée */
+  overflow-y: auto;
+}
