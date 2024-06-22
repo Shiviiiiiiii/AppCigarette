@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AppCigarette/static/css/main.f7ecf02f.css",
-    "main.js": "/AppCigarette/static/js/main.9e6101f9.js",
-    "static/js/453.ddfa91f0.chunk.js": "/AppCigarette/static/js/453.ddfa91f0.chunk.js",
-    "static/media/cigarette.png": "/AppCigarette/static/media/cigarette.baa52c7b757230ed6616.png",
-    "index.html": "/AppCigarette/index.html",
-    "main.f7ecf02f.css.map": "/AppCigarette/static/css/main.f7ecf02f.css.map",
-    "main.9e6101f9.js.map": "/AppCigarette/static/js/main.9e6101f9.js.map",
-    "453.ddfa91f0.chunk.js.map": "/AppCigarette/static/js/453.ddfa91f0.chunk.js.map"
+    "main.css": "/appcigarette/static/css/main.f7ecf02f.css",
+    "main.js": "/appcigarette/static/js/main.a3d43b63.js",
+    "static/js/453.ddfa91f0.chunk.js": "/appcigarette/static/js/453.ddfa91f0.chunk.js",
+    "static/media/cigarette.png": "/appcigarette/static/media/cigarette.baa52c7b757230ed6616.png",
+    "index.html": "/appcigarette/index.html",
+    "main.f7ecf02f.css.map": "/appcigarette/static/css/main.f7ecf02f.css.map",
+    "main.a3d43b63.js.map": "/appcigarette/static/js/main.a3d43b63.js.map",
+    "453.ddfa91f0.chunk.js.map": "/appcigarette/static/js/453.ddfa91f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7ecf02f.css",
-    "static/js/main.9e6101f9.js"
+    "static/js/main.a3d43b63.js"
   ]
 }
