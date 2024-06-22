@@ -9,7 +9,7 @@ appcigarette/node_modules
 /coverage
 
 # production
-/build
+appcigarette/build
 
 # misc
 .DS_Store
